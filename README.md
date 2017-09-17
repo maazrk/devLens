@@ -1,4 +1,8 @@
 # devLens
+<p align="center">
+<img src=https://github.com/maazrk/devLens/blob/master/images/cover.jpg width=700/>
+</p>
+
 A simple tool which helps to locate the elements in the HTML webpage, useful for debugging and development.
 
 Find it on Chrome Webstore at https://chrome.google.com/webstore/detail/devlens/kabdfmclplkabkflfbiakidanlcdfaji
